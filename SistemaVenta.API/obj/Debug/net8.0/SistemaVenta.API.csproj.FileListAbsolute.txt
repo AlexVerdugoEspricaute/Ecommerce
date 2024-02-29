@@ -14,7 +14,6 @@ C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVe
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.AssemblyInfoInputs.cache
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.AssemblyInfo.cs
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.csproj.CoreCompileInputs.cache
-C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -80,3 +79,6 @@ C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVe
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json
+C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

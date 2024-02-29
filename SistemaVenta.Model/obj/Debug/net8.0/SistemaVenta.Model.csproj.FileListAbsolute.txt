@@ -12,3 +12,4 @@ C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVe
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
 C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll
+C:\Users\alexv\OneDrive\Escritorio\proyectos.NET\Proyecto02_ASP.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.sourcelink.json

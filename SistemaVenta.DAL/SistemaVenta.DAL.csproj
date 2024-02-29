@@ -10,4 +10,8 @@
     <ProjectReference Include="..\SistemaVenta.Model\SistemaVenta.Model.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositorio\" />
+  </ItemGroup>
+
 </Project>
